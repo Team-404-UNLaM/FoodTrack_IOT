@@ -20,4 +20,4 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 * **Bayarri Brian** - [brianbayarri](https://github.com/brianbayarri)
 * **Hoz Aylen** - [AylenHoz](https://github.com/AylenHoz)
 * **Tabarez Brian** - [brtab](https://github.com/brtab)
-* **Zacaria Lucas** - [Lucas-Zacarias](https://github.com/Lucas-Zacarias)
+* **Zacarias Lucas** - [Lucas-Zacarias](https://github.com/Lucas-Zacarias)
